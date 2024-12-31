@@ -1,0 +1,1 @@
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="2024-12">
