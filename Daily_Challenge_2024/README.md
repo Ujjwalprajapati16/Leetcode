@@ -20,11 +20,11 @@
 
 ### Aug Badge
 
-<img src"https://assets.leetcode.com/static_assets/marketing/2024-08-new.gif" alt="2024">
+<img src"https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" alt="2024">
 
 ### Dec Badge
 
-<img src"https://assets.leetcode.com/static_assets/marketing/2024-12-new.gif" alt="2024">
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="2024-12">
 
 ## Study Plan Medals
 
