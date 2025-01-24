@@ -31,7 +31,7 @@ print(sol.eventualSafeNodes([[1,2,3],[2,3,3],[5],[0],[5],[],[]])) # [2,4,5,6]
 
 print(sol.eventualSafeNodes([[1,2,3],[2,3,3],[5],[0],[5],[],[4]])) # [1,2,3,4]
 
-print(sol.eventualSafeNodes([[1,2,3,4],[1,2],[3,4],[0,4],[]])) # [1,2,3,4]
+print(sol.eventualSafeNodes([[1,2,3,4],[1,2],[3,4],[0,4],[]])) # [4]
 
 '''
 802. Find Eventual Safe States
