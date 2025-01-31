@@ -1,0 +1,1 @@
+<img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" alt="January 2025">
