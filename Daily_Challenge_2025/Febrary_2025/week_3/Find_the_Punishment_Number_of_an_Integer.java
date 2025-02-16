@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Find_the_Punishment_Number_of_an_Integer {
     public boolean isPartition(int j, String i2, int i, int curSum, int dp[][]) {
         int n = i2.length();
