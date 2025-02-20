@@ -1,0 +1,10 @@
+# Leetcode badges in 2025
+
+## 50 days leetcode badge
+
+<img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 days badge">
+
+## Monthly leetcode badge
+### January
+
+<img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" alt="January 2025">
