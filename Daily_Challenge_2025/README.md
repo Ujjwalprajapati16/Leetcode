@@ -8,3 +8,7 @@
 ### January
 
 <img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" alt="January 2025">
+
+### Febraury
+
+<img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" alt="February 2025">
