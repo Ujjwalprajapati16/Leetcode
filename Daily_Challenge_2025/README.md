@@ -12,3 +12,7 @@
 ### Febraury
 
 <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" alt="February 2025">
+
+### March
+
+<img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" alt="March 2025">
