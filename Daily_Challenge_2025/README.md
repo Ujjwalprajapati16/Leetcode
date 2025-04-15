@@ -4,6 +4,10 @@
 
 <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 days badge">
 
+## 100 days leetcode badge
+
+<img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="100 days badge">
+
 ## Monthly leetcode badge
 ### January
 
