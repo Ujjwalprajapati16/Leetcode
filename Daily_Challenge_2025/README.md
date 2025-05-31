@@ -24,3 +24,7 @@
 ### April
 
 <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" alt="April 2025">
+
+### May
+
+<img src="https://assets.leetcode.com/static_assets/marketing/202505.gif" alt="May 2025">
