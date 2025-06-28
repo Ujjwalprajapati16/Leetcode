@@ -1,5 +1,9 @@
 # Leetcode badges in 2025
 
+## 365 days leetcode badge
+
+<img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="365 days">
+
 ## 50 days leetcode badge
 
 <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 days badge">
